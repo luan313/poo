@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+@CroosOrigin
 @SpringBootApplication
 @RestController
 public class api {
